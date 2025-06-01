@@ -1,4 +1,6 @@
-# PantryIQ
+
+![logo](https://github.com/user-attachments/assets/668c71ad-31bd-48e9-b0a7-6c7c122266a0)
+
 ---
 
 ## 🛒 Grocery App Tech Specification
